@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+.text-primary{
+    color: #FF6363;
+  }
+  .text-secondary-100{
+    color: #E2E2D5;
+  }
+  .text-secondary-200{
+    color: #888883;
+  }

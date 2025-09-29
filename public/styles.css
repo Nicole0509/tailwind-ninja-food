@@ -178,9 +178,6 @@
   .mt-12 {
     margin-top: calc(var(--spacing) * 12);
   }
-  .flex {
-    display: flex;
-  }
   .border-b {
     border-bottom-style: var(--tw-border-style);
     border-bottom-width: 1px;
@@ -190,9 +187,6 @@
   }
   .border-gray-200 {
     border-color: var(--color-gray-200);
-  }
-  .bg-green-600 {
-    background-color: var(--color-green-600);
   }
   .p-4 {
     padding: calc(var(--spacing) * 4);
@@ -228,18 +222,18 @@
   .text-gray-700 {
     color: var(--color-gray-700);
   }
-  .text-primary{
-    color: #FF6363;
-  }
-  .text-secondary-100{
-    color: #E2E2D5;
-  }
-  .text-secondary-200{
-    color: #888883;
-  }
   .uppercase {
     text-transform: uppercase;
   }
+}
+.text-primary {
+  color: #FF6363;
+}
+.text-secondary-100 {
+  color: #E2E2D5;
+}
+.text-secondary-200 {
+  color: #888883;
 }
 @property --tw-border-style {
   syntax: "*";
