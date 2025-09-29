@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
 .text-primary{
     color: #FF6363;
@@ -8,4 +9,8 @@
   }
   .text-secondary-200{
     color: #888883;
+  }
+
+  .font-nunito{
+    font-family: 'Nunito Sans', sans-serif;
   }
