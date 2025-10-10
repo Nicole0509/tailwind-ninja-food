@@ -4,7 +4,11 @@
 .text-primary{
     color: #FF6363;
   }
-  .text-secondary-100{
+
+.text-primary{
+    color: #FF6363;
+  }
+  .secondary-100{
     color: #E2E2D5;
   }
   .text-secondary-200{
